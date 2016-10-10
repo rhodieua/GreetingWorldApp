@@ -1,0 +1,1 @@
+java -cp target\GreetingWorldApp-1.0-SNAPSHOT.jar;%CLASSPATH%\joda-time\joda-time\2.9.4\joda-time-2.9.4.jar;%CLASSPATH%\org\apache\logging\log4j\log4j-api\2.6.2\log4j-api-2.6.2.jar;%CLASSPATH%\org\apache\logging\log4j\log4j-core\2.6.2\log4j-core-2.6.2.jar com.mycompany.app.GreetingWorldRun
